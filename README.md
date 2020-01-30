@@ -7,4 +7,4 @@ Windows does not let you change the shortcut icon using a .png or .jpg image so 
 Click [here](https://youtu.be/e2GAa_chBME) to see the program in action and how to use it.
 
 ## Installation
-You can download the software by clicking [here](raw/master/Install/IconChanger.exe)
+You can download the software by clicking [here](/AkyrosXD/IconChanger/raw/master/Install/IconChanger.exe)
